@@ -16,7 +16,7 @@ The **Dynamic Scorecard Tool** is a web-based application designed for performan
 1. **Install dependencies**
    ```bash
    npm install
-2.** Run the project**
+2. ** Run the project**
    ```bash
    npm run dev
 
